@@ -1,0 +1,11 @@
+.sidebar li{
+    list-style: none;
+    color: #4d4949;
+    margin-top: 15px;
+}
+
+.sidebar a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
